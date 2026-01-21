@@ -6,8 +6,8 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'ADMIR - Hotel Management',
-  description: 'Admin dashboard for hotel management',
+  title: 'ADMIR  NextStepEdu',
+  description: 'Admin dashboard for ADMIR  NextStepEdu',
 };
 
 export default function RootLayout({
